@@ -275,7 +275,7 @@ const story = {
 
 
 const footerAPI = {
-  titles: [ {title: "About Nike"},{title: "Get Help"},{title: "Company"} ],
+  titles: [ {title: "Sobre Tenis"},{title: "Ajuda"},{title: "Empresa"} ],
   links: [
     [
       {link: "Notícias"},
